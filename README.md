@@ -2,4 +2,4 @@
 
 This is one of my first websites.
 
-HTML, CSS
+HTML, CSS, and a little of JS
